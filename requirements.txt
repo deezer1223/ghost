@@ -1,0 +1,3 @@
+aiogram
+aiohttp
+flask  # Eğer keep_alive.py kullanacaksa
