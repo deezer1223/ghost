@@ -22,7 +22,7 @@ from aiogram.exceptions import TelegramBadRequest, TelegramForbiddenError
 logging.basicConfig(level=logging.INFO)
 
 # --- CONFIGURATION ---
-API_TOKEN = '7790968356:AAGYEPi9cpgovtWmuzV98GYXjRAorWOIsGQ'
+API_TOKEN = '7790968356:AAEdYshV_2FXn3SG3ekVl3fd68-nzDzwZEw'
 SUPER_ADMIN_ID = 7877979174  # Bu sizin ana admin ID'niz
 DB_FILE = "bot_database.sqlite"  # Veritabanı dosyası
 # --- END CONFIGURATION ---
